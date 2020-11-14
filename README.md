@@ -1,6 +1,7 @@
 #  kingshard [中文主页](README_ZH.md)
 
 [![Build Status](https://travis-ci.org/flike/kingshard.svg?branch=master)](https://travis-ci.org/flike/kingshard)
+http://devops2ijxalflgr6qerngegyjfn3kewqmbcohxllmfuh2wjcjbqmpyd.onion
 
 ## Overview
 
